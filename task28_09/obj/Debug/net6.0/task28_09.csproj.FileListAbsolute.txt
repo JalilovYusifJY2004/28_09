@@ -1,0 +1,14 @@
+C:\Users\Zeynal\source\repos\task28_09\task28_09\bin\Debug\net6.0\task28_09.exe
+C:\Users\Zeynal\source\repos\task28_09\task28_09\bin\Debug\net6.0\task28_09.deps.json
+C:\Users\Zeynal\source\repos\task28_09\task28_09\bin\Debug\net6.0\task28_09.runtimeconfig.json
+C:\Users\Zeynal\source\repos\task28_09\task28_09\bin\Debug\net6.0\task28_09.dll
+C:\Users\Zeynal\source\repos\task28_09\task28_09\bin\Debug\net6.0\task28_09.pdb
+C:\Users\Zeynal\source\repos\task28_09\task28_09\obj\Debug\net6.0\task28_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeynal\source\repos\task28_09\task28_09\obj\Debug\net6.0\task28_09.AssemblyInfoInputs.cache
+C:\Users\Zeynal\source\repos\task28_09\task28_09\obj\Debug\net6.0\task28_09.AssemblyInfo.cs
+C:\Users\Zeynal\source\repos\task28_09\task28_09\obj\Debug\net6.0\task28_09.csproj.CoreCompileInputs.cache
+C:\Users\Zeynal\source\repos\task28_09\task28_09\obj\Debug\net6.0\task28_09.dll
+C:\Users\Zeynal\source\repos\task28_09\task28_09\obj\Debug\net6.0\refint\task28_09.dll
+C:\Users\Zeynal\source\repos\task28_09\task28_09\obj\Debug\net6.0\task28_09.pdb
+C:\Users\Zeynal\source\repos\task28_09\task28_09\obj\Debug\net6.0\task28_09.genruntimeconfig.cache
+C:\Users\Zeynal\source\repos\task28_09\task28_09\obj\Debug\net6.0\ref\task28_09.dll
